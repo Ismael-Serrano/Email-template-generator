@@ -3,7 +3,7 @@
 
 
 Email template generator is an application designed for the Ground Customer Service department of BookingGo.
-The templates and fillable fields were selected to represent the most common issues and queries reported by
+The templates and fillable fields were drawn the most common issues and queries reported by
 customers and customer service representatives working at Booking Go.
 
 
@@ -25,6 +25,7 @@ all the templates for security reasons.  To search for available templates:
 -  Click “Search”
 
 Populate gaps in the template
+
 After searching successfully for a template, the program will highlight various cells 
 within the section “Fields" to the left of the drop-down menus. Adding the information required by the coloured cells 
 allows the program to replace the tags in the template and fill it in with customers’ personal information. After 
